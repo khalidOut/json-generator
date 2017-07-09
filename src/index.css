@@ -1,0 +1,16 @@
+.vert-offset-top-0{
+    margin-top: 0em;
+}
+.vert-offset-top-2{
+    margin-top: 2em;
+}
+.label.label-info, .label.label-success {
+	margin-left: 5px;
+}
+.jsonForm .alert {
+	padding: 5px 10px;
+	margin-bottom: 5px;
+}
+#btn-cancel {
+	margin-right : 10px;
+}
